@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shapol-m
 - 👀 I’m interested in transport, healthcare and computing.
-- 🌱 I’m currently learning Q++
+- 🌱 I’m currently learning Q#
 - 💞️ I’m looking to collaborate on quantum algorthims for aero simulations.
 - 📫 How to reach me: via my LinkedIn aha
 
